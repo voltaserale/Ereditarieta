@@ -9,7 +9,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		
 		Persona p=new Persona();
-		
+		//modifica
 		
 		p.Compleanno();
 		//p.stipendio=2000;  //non si può fare
